@@ -1,4 +1,5 @@
 export default {
     title: 'YY',
-    descrption: 'Wu Youjie'
+    descrption: 'Wu Youjie',
+    base: '/yojigoji/'
 }
